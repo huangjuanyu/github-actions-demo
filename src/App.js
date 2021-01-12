@@ -1,3 +1,11 @@
+/*
+ * @Author: hjy
+ * @Date: 2021-01-12 14:51:06
+ * @LastEditTime: 2021-01-12 15:26:10
+ * @LastEditors: hjy
+ * @Description: 
+ * @FilePath: /github-actions-demo/src/App.js
+ */
 import logo from './logo.svg';
 import './App.css';
 
@@ -7,16 +15,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          hjy github actions demo
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        
       </header>
     </div>
   );
